@@ -1,0 +1,68 @@
+/*body{
+	margin: 0;
+}
+
+
+body,html{
+	height: 100%;
+}
+
+
+.formulhaire{
+	position: absolute;
+	width: 1400px;
+	height: 700px;
+	background-color: grey;
+	top: 40%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin:auto;
+	border-radius: 15px;
+}
+
+.formulhaire form{
+	position: absolute;
+	width: 250px;
+	height: 500px;
+	text-align: center;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin:auto;
+}
+
+.formulhaire input{
+	border: none;
+	background-color: transparent;
+	border-bottom: 1px blue solid;
+	display: flex;
+	text-align: center;
+	width: 100%;
+	font-size: 15px;
+}
+
+textarea{
+	width: 100%;
+}
+
+.formulhaire form .bouton{
+	border: 1px black solid;
+	background-color: white;
+	width: 80px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+label{
+	font-size: 25px;
+}
+
+.formulhaire img{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	top: -75px;
+	left: calc(50% - 75px);
+}*/
